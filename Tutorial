@@ -1,0 +1,21 @@
+Para entrenar lo que acabas de aprender, sigue los siguientes pasos:
+1. apretar el boton verde arriba a la derecha que dice `code`
+2. escoger la opción `HTTPS`
+3. copiar el link
+4. abrir una consola (o terminal) e ir a la carpeta local (del pc) donde clonar este repositorio 
+5. escribe `git clone <link_que_copiaste>`. Debería ser esto:
+```git clone https://github.com/roloyolanavarro/NeuroCog_CIAE.git```
+
+Si todo salió bien, entonces has clonado tu primer repositorio de github ¡Felicitaciones!
+
+Ahora puedes hacer lo siguiente (ejercicio):
+1. crear tu propia rama (en consola `git checkout -b <nombre_de_tu_rama>`)
+2. dentro de la carpeta del repositorio crear un archivo que tenga por nombre tu nombre (en mi caso sería `ismael_jaras.txt`)
+3. escribe algún mensaje interesante dentro del archivo
+4. agrega el archivo que creaste para poder ser *commiteado* (en consola `git add tu_nombre.txt`)
+5. agrega el commit (en consola escibir `git commit -m "agrego archivo con mi nombre y comentario"`)
+6. *pushea* el commit (en consola `git push`)
+7. si todo salió bien, entonces ahora puedes hacer un *pull request* desde github directamente
+8. cambiar a la rama `main` en su PC (`git checkout main`)
+9. hacer un pull para actualizar todos los desarrollos de la rama remota `main` en su rama `main` local (`git pull`)
+Este ejercicio sirve para ir actualizando el código. Si no se quiere tener la carpeta del repositorio en el pc y sólo se quiere mantener online (en el github), omitir este paso.

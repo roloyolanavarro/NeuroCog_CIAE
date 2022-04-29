@@ -1,4 +1,7 @@
 # decision_making_task
+
+#Requiere GEANY https://www.geany.org/download/releases/
+
 Para hacer funcionar usar:
 
 ```

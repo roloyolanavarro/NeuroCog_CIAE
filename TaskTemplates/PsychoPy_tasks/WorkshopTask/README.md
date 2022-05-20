@@ -1,3 +1,3 @@
-Creates a task which presents animal images and their names in both text and pre-recorded audio files. Half of the audio 
-files has a female voice, and the other half has a male voice.
-The task consists on remembering both the name and the gender of the voice. 
+Creates a task which presents animal images and facts will be read to participants about those animals by two prerecorded voices (one defined as male, one as female). 
+
+After all these are presented (this example task includes just four animals), we want to test participants’ memory for both the facts and the source (voice) of those facts. 

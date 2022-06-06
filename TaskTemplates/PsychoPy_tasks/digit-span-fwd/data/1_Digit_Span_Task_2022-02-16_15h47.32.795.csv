@@ -1,0 +1,4 @@
+﻿start_mouse.x,start_mouse.y,start_mouse.leftButton,start_mouse.midButton,start_mouse.rightButton,start_mouse.clicked_name,digitLoop.thisRepN,digitLoop.thisTrialN,digitLoop.thisN,digitLoop.thisIndex,digitLoop.ran,participant,session,date,expName,psychopyVersion,OS,frameRate
+0.098148148,-0.388888889,1,0,0,cont_button,0,0,0,0,1,1,001,2022-02-16_15h47.32.795,Digit Span Task,2021.2.3,Win32,59.97720866
+,,,,,,1,0,1,0,1,1,001,2022-02-16_15h47.32.795,Digit Span Task,2021.2.3,Win32,59.97720866
+,,,,,,2,0,2,0,1,1,001,2022-02-16_15h47.32.795,Digit Span Task,2021.2.3,Win32,59.97720866

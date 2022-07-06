@@ -1,0 +1,4 @@
+﻿instrucciones_pasiva,instrucciones_activa,instrucloop_PR.thisRepN,instrucloop_PR.thisTrialN,instrucloop_PR.thisN,instrucloop_PR.thisIndex,trial_trainingPR.thisRepN,trial_trainingPR.thisTrialN,trial_trainingPR.thisN,trial_trainingPR.thisIndex,digitSpan_train,digits_train,fixation_time_train,answer_train,participant,session,date,expName,psychopyVersion,frameRate,
+datasets/instruccion1_pasiva.png,datasets/instruccion1_activa.png,0,0,0,0,,,,,,,,,fff,001,2022-07-06_16h07.04.257,DigitSpanTask_PR2,2022.1.3,58.88533522859077,
+datasets/instruccion2.png,datasets/instruccion2.png,0,1,1,1,,,,,,,,,fff,001,2022-07-06_16h07.04.257,DigitSpanTask_PR2,2022.1.3,58.88533522859077,
+datasets/instruccion3.png,datasets/instruccion3.png,0,2,2,2,,,,,,,,,fff,001,2022-07-06_16h07.04.257,DigitSpanTask_PR2,2022.1.3,58.88533522859077,

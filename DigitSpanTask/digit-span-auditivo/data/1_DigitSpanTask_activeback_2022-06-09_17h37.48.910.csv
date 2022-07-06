@@ -1,0 +1,4 @@
+﻿instrucciones_pasiva,instrucciones_activa,instrucloop.thisRepN,instrucloop.thisTrialN,instrucloop.thisN,instrucloop.thisIndex,trial_trainingAF.thisRepN,trial_trainingAF.thisTrialN,trial_trainingAF.thisN,trial_trainingAF.thisIndex,digitSpan_trainAF,digits_trainAF,fixation_time_trainAF,answer_trainAF,participant,session,date,expName,psychopyVersion,frameRate,
+instruccion1_pasiva.png,instruccion1_activa.png,0,0,0,0,,,,,,,,,1,001,2022-06-09_17h37.48.910,DigitSpanTask_activeback,2022.1.3,58.843612678142776,
+instruccion2.png,instruccion2.png,0,1,1,1,,,,,,,,,1,001,2022-06-09_17h37.48.910,DigitSpanTask_activeback,2022.1.3,58.843612678142776,
+instruccion3.png,instruccion3.png,0,2,2,2,,,,,,,,,1,001,2022-06-09_17h37.48.910,DigitSpanTask_activeback,2022.1.3,58.843612678142776,

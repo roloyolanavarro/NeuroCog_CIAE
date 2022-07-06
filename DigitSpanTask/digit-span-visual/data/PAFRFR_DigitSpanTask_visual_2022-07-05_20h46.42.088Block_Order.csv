@@ -1,0 +1,14 @@
+﻿nRepsBlockPasivas,nRepsBlockActivas,n,order
+2,0,1.0,0.0
+0,2,1.0,1.0
+
+extraInfo
+participante,PAFRFR
+sesion,01
+orden,PA
+pasivas,FR
+activas,FR
+date,2022-07-05_20h46.42.088
+expName,DigitSpanTask_visual
+psychopyVersion,2022.1.3
+frameRate,59.061636195312204
